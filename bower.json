@@ -1,0 +1,22 @@
+{
+  "name": "cognitoFineGrainedAuth",
+  "description": "Dependencies for Cognito User Pools group blog",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.5",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "aws-sdk": "aws-sdk-js#^2.92.0",
+    "angular-route": "^1.6.5",
+    "underscore": "^1.8.3"
+  }
+}
