@@ -23,4 +23,4 @@ This sample is built using the following AWS services:
 #### Instructions to install dependencies and populate constants
 
 * Run `bower install` from the root of your directory once you clone this project
-* Navigate to `lib/aws-variables.js` and populate your own details. More detailed instructions can be found in the [Building fine-grained authorization using Amazon Cognito User Pools groups](https://aws-preview.aka.amazon.com/blogs/mobile/building-fine-grained-authorization-using-amazon-cognito-user-pools-groups/) blog
+* Navigate to `lib/aws-variables.js` and populate your own details. More detailed instructions can be found in the [Building fine-grained authorization using Amazon Cognito User Pools groups](https://aws.amazon.com/blogs/mobile/building-fine-grained-authorization-using-amazon-cognito-user-pools-groups/) blog
