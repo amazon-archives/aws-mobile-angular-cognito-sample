@@ -9,7 +9,7 @@ We hope you enjoy it, and we certainly welcome all feedback, pull requests and o
 
 
 ## Architecture diagram
-![Amazon Cognito Authentication flow](https://raw.githubusercontent.com/awslabs/aws-mobile-angular-cognito-sample/master/img/arch_diagram.png)
+![Amazon Cognito Authentication flow](https://d2908q01vomqb2.cloudfront.net/0a57cb53ba59c46fc4b692527a38a87c78d84028/2017/07/19/CognitoDiagram.png)
 
 ## AWS services used
 
